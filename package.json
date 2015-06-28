@@ -1,0 +1,14 @@
+{
+  "name": "undo-engine",
+  "version": "0.0.0",
+  "description": "undo engine",
+  "scripts": {
+    "test": "mocha --compilers js:babel/register"
+  },
+  "author": "JongChan Choi",
+  "license": "zlib",
+  "devDependencies": {
+    "babel": "^5.5.8",
+    "mocha": "^2.2.5"
+  }
+}
